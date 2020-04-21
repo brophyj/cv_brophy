@@ -1,0 +1,61 @@
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
+
+title = "Accomplish&shy;ments"
+subtitle = ""
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Causal Diagrams: Draw Your Assumptions Before Your Conclusions"
+  url = "https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/"
+  certificate_url = "files/HarvardX_Certificate.pdf" # https://www.coursera.org
+  date_start = "2019-04-01"
+  date_end = ""
+  description = "A course in causal diagrams to understand different assumptions, biases and analyses"
+
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Mechanical Ventilation for COVID-19"
+  url = "https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/"
+  certificate_url = "files/HarvardCertificate_2ventilation.pdf"
+  date_start = "2020-04-14"
+  date_end = ""
+  description = "Short course on mechanical ventilation, including ventilator setting, adjustments, troubleshooting and extubation procedures"
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Bayesian Regression Modeling with rstanarm Course"
+  url = "https://learn.datacamp.com/courses/bayesian-modeling-with-rjags"
+  certificate_url = "files/rstan.pdf"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = "Estimation of linear regression models using Bayesian methods and the rstanarm package"
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Building Web Applications with Shiny in R"
+  url = "https://learn.datacamp.com/courses/building-web-applications-with-shiny-in-r"
+  certificate_url = "files/shiny.pdf"
+  date_start = "2020-02-01"
+  date_end = ""
+  description = "Course to build highly interactive web apps directly in R"
+
++++

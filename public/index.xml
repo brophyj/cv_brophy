@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay Brophy&#39;s Website</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jay Brophy&#39;s Website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jay Brophy&#39;s Website</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Learning &amp; Corporate Sponsorship</title>
+      <link>/post/virtual-learning-corporate-sponsorship/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/virtual-learning-corporate-sponsorship/</guid>
+      <description>
+
+
+&lt;p&gt;One positive from the &lt;strong&gt;Covid-19&lt;/strong&gt; pandemic, is we have had to learn more techniques about online or virtual learning. The proliferation of these tools, such as Zoom, and our increased familiarity with their use will perhaps have a lasting impact on our learning processes. For example, with increased ease of online learning, perhaps we will reduce our carbon footprint for small, medium and even large medical conferences as we reduce our traveling and need for physical presence at these venues.&lt;/p&gt;
+&lt;p&gt;Certainly in the academic world, we had to rapidly adapt (within a 2 week period) from giving standard onsite lectures to the virtual teaching world. Surprisingly, the transition was relatively painless. For example, I gave the last 12 hours of the winter semester of my intermediate epidemiology course to 71 MSc students via Zoom. The cost of this is farily trivial. I believe the price of a premium Zoom subscription is about $20 / month.&lt;/p&gt;
+&lt;p&gt;Given these facts I was not surprised to receive a recent email about an upcoming virtual course on heart failure.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/ScreenShot_1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;However, what did surprise me was seeing that this symposium had &lt;strong&gt;12 corporate sponsors&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/ScreenShot_2.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This raises several questions:&lt;br /&gt;
+- Why are academics so tied in with coroporate interests?&lt;br /&gt;
+- Are academics only willing to participate if personal financial rewards are present?&lt;br /&gt;
+- Coroporations are not philatrophic organizations, so what is the payoff for them?&lt;br /&gt;
+- Is it a quasi guarantee that their products will be highlighted in a positive manner?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dig is OK</title>
+      <link>/post/dig-is-ok/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/dig-is-ok/</guid>
+      <description>
+
+
+&lt;p&gt;This is from a tweetorial looking at the safety and efficacy of digitalis in heart failure.&lt;br /&gt;
+&lt;img src=&#34;/img/dig_post_Page_1.png&#34; id=&#34;id&#34; class=&#34;class&#34; align=&#34;center&#34; style=&#34;width:300.0%;height:125.0%&#34; /&gt;&lt;br /&gt;
+&lt;img src=&#34;/img/dig_post_Page_2.png&#34; id=&#34;id&#34; class=&#34;class&#34; align=&#34;center&#34; style=&#34;width:125.0%;height:125.0%&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CABG vs. PCI in LM</title>
+      <link>/post/2020-04-16-cabg-vs-pci-in-left-main-disease/</link>
+      <pubDate>Sun, 01 Dec 2019 10:38:37 -0500</pubDate>
+      <guid>/post/2020-04-16-cabg-vs-pci-in-left-main-disease/</guid>
+      <description>
+
+
+&lt;p&gt;This is a blog post about a recent &lt;a href=&#34;https://www.nejm.org/doi/full/10.1056/NEJMoa1909406&#34;&gt;NEJM article&lt;/a&gt;.
+&lt;img src=&#34;/img/PCI_CABG.jpg&#34; id=&#34;id&#34; class=&#34;class&#34; align=&#34;right&#34; style=&#34;width:75.0%;height:75.0%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Based on the primary outcome result (difference, 2.8 percentage
+points; 95% confidence interval [CI], −0.9 to 6.5; P = 0.13), the EXCEL authors conclude “In patients with left main coronary artery disease of low or intermediate anatomical complexity, there was no significant difference between PCI and CABG”. Leaving aside that CABG was statistically superior in terms of total mortality, ischemia driven revascularization, and non-procedural myocardial infarction, it is questionable that the primary outcome data actually support their conclusion. EXCEL was originally designed as a non-inferiority (NI) study with a margin of 4.2%, which en passant many would consider too liberal. Even accepting that margin, how can a primary outcome with a 95% upper CI of 6.5%, exceeding the original NI margin be used to support their conclusion?&lt;/p&gt;
+&lt;p&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Debate: Be it Resolved: Chronic Total Occlusions Remain Closed</title>
+      <link>/talk/debate/</link>
+      <pubDate>Fri, 01 Nov 2019 12:00:00 +0000</pubDate>
+      <guid>/talk/debate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journal Article from 2019</title>
+      <link>/publication/pub_1/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pub_1/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic’s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://doi.org/10.1016/j.cjca.2019.08.022&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Misc_2</title>
+      <link>/project/misc_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/misc_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misc_3</title>
+      <link>/project/misc_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/misc_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides - Debate CTO should not be routinely opened</title>
+      <link>/slides/debate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/slides/debate/</guid>
+      <description>&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+&lt;h2 id=&#34;download-slides-herefilesbrophy_ctopdf&#34;&gt;&lt;img src=&#34;slides/Brophy_CTO1.pdf&#34; alt=&#34;&#34;&gt;
+Download slides &lt;img src=&#34;%22files/Brophy_CTO.pdf%22&#34; alt=&#34;here&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
+&lt;h2 id=&#34;slidesbrophy_cto2pdf&#34;&gt;&lt;img src=&#34;slides/Brophy_CTO2.pdf&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;slidesbrophy_cto3pdf&#34;&gt;&lt;img src=&#34;slides/Brophy_CTO3.pdf&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;slidesbrophy_cto4pdf&#34;&gt;&lt;img src=&#34;slides/Brophy_CTO4.pdf&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;slidesbrophy_cto5pdf&#34;&gt;&lt;img src=&#34;slides/Brophy_CTO5.pdf&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;slidesbrophy_cto6pdf&#34;&gt;&lt;img src=&#34;slides/Brophy_CTO6.pdf&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./slides/debate/Brophy_CTO1.pdf&#34;
+  &gt;
+&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TC4 research project</title>
+      <link>/project/misc_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/misc_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

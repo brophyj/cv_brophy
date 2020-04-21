@@ -1,2 +1,2 @@
-# cv-brophyj-github.io
+# cv_brophy
 Personal website repo

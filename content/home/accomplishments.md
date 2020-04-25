@@ -19,35 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Causal Diagrams: Draw Your Assumptions Before Your Conclusions"
-  url = "https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/"
-  certificate_url = "files/HarvardX_Certificate.pdf" # https://www.coursera.org
-  date_start = "2019-04-01"
-  date_end = ""
-  description = "A course in causal diagrams to understand different assumptions, biases and analyses"
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Mechanical Ventilation for COVID-19"
-  url = "https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/"
-  certificate_url = "files/HarvardCertificate_2ventilation.pdf"
-  date_start = "2020-04-14"
-  date_end = ""
-  description = "Short course on mechanical ventilation, including ventilator setting, adjustments, troubleshooting and extubation procedures"
-  
-[[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Bayesian Regression Modeling with rstanarm Course"
-  url = "https://learn.datacamp.com/courses/bayesian-modeling-with-rjags"
-  certificate_url = "files/rstan.pdf"
-  date_start = "2019-07-01"
+  title = "Visualizing Geospatial Data in R"
+  url = "https://learn.datacamp.com/courses/visualizing-geospatial-data-in-r"
+  certificate_url = "files/Geospatial.pdf"
+  date_start = "2020-04-24"
   date_end = ""
-  description = "Estimation of linear regression models using Bayesian methods and the rstanarm package"
+  description = "Learn to read, explore, manipulate and map spatial objects"
+  
+  
+## [[item]]
+##  organization = "edX"
+##  organization_url = "https://www.edx.org"
+##  title = "Causal Diagrams: Draw Your Assumptions Before Your Conclusions"
+##  url = "https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/"
+##  certificate_url = "files/HarvardX_Certificate.pdf" # https://www.coursera.org
+##  date_start = "2019-04-01"
+##  date_end = ""
+##  description = "A course in causal diagrams to understand different assumptions, biases and analyses"
 
+  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -57,5 +49,34 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = "Course to build highly interactive web apps directly in R"
+  
+##[[item]]
+##  organization = "DataCamp"
+##  organization_url = "https://www.datacamp.com"
+##  title = "Bayesian Regression Modeling with rstanarm Course"
+##  url = "https://learn.datacamp.com/courses/bayesian-modeling-with-rjags"
+##  certificate_url = "files/rstan.pdf"
+##  date_start = "2019-07-01"
+##  date_end = ""
+##  description = "Estimation of linear regression models using Bayesian methods and the rstanarm package"
+
+[[item]]
+ organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Mechanical Ventilation for COVID-19"
+  url = "https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/"
+  certificate_url = "files/HarvardCertificate_2ventilation.pdf"
+  date_start = "2020-04-14"
+  date_end = ""
+  description = "Short course on mechanical ventilation, including ventilator setting, adjustments, troubleshooting and extubation procedures"
 
 +++
+
+
+Previous accomplishements (2019)
+* [Bayesian Regression Modeling with rstanarm Course](https://learn.datacamp.com/courses/bayesian-modeling-with-rjags) - DataCamp [certificate](files/rstan.pdf)    
+* [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/) - edX [certificate](files/HarvardX_Certificate.pdf)    
+
+
+
+

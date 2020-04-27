@@ -12,15 +12,15 @@ address:
   country: Canada
 
 summary: Talk from a symposium on high value medical care.
-abstract: "A talk that was part of a debate on the value of opening chronic occlusions. The argument is made that proof of meaningful health benefits and good value is presently lacking and we should avoid be driven uniquely a technological imperative. Due to technical issues only a small percentage of the audience could vote and the result was 13-12 against the resolution.    
+abstract: "A talk that was part of a debate on the value of opening chronic total occlusions (CTO). The argument is made that proof of meaningful health benefits and good value is presently lacking and we should avoid be driven uniquely by a technological imperative. Due to technical issues only a small percentage of the audience could vote and the result was 13-12 against the resolution.    
 
 There were some lessons learned from the debate. Although there is at best sketchy evidence in favor of meaningful improvments in patient outcomes with CTO, the audience was impressed by the extraordinary images of occulded arteries being opended and the belief that this must be benefical, even if hard objective evidence is lacking. The other arguement that undoubtedly swayed the audience was a patient testimonial about the improvement he experienced following CTO.     
 
-After the debate, I was provided with a second testimonial about the improvement that another patient had following CTO. However, according to the MD relating the story the actual procedure was a failure and the vessel remained closed. The patient was aware of the unsuccessful nature of the procedure but still claimed much improvement. He attributed this to the confidence and caring attitude of the interventionalist.    
+After the debate, I was provided with a second testimonial about the improvement that another patient had following CTO. However, according to the MD relating the story the actual procedure was a failure and the vessel remained closed. The patient was aware of the unsuccessful nature of the procedure but still claimed much improvement. He attributed this to the confidence and caring attitude of the interventionalist.    \n
 
-My take home messages from this debate were;        
-* people, including HC professionals, remain more impressed by iamages and personal narratives than by evidence based medicine    
-* large patient benefits can be achieved by establishing a caring and empathetic relationship"
+My take home messages from this debate were;     \n   
+1) people, including HC professionals, remain more impressed by images and personal narratives than by evidence based medicine   \n 
+2) large patient benefits can be achieved by establishing a caring and empathetic relationship"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

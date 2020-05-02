@@ -21,6 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
+  title = "Machine Learning with Caret in R"
+  url = "https://learn.datacamp.com/courses/machine-learning-with-caret-in-r"
+  certificate_url = "files/Certificate_caret.pdf"
+  date_start = "2020-05-02"
+  date_end = ""
+  description = "Build, tune, preprocess and evaluate machine learning predictive models"
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Intermediate Python Programming"
+  url = "https://learn.datacamp.com/courses/intermediate-python-for-data-science"
+  certificate_url = "files/IntermediatePython.pdf"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = "Intermediate programming in Python"
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
   title = "Visualizing Geospatial Data in R"
   url = "https://learn.datacamp.com/courses/visualizing-geospatial-data-in-r"
   certificate_url = "files/Geospatial.pdf"

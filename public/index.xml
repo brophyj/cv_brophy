@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>Covid visualizations</title>
+      <link>/post/covid-visualizations/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/covid-visualizations/</guid>
+      <description>
+
+
+&lt;p&gt;The majority of Covid-19 cases in Quebec are on the island of Montreal. Using daily reports from Quebec public health, I have made a few graphs that explore the rate of infections during the month of April for the different Montreal neighbourhoods.
+&lt;a href=&#34;/post/Combined_map.html&#34;&gt;click here for interactive Montreal maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/covid_area.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Obviously inferences of Montreal cases are limited by the uncertain quality of the data. With this caveat, here are some personal observations&lt;br /&gt;
+* Early in the month, cases were highest in higher SES areas, likely highlighting ^ travel exposure in these areas&lt;br /&gt;
+* As month progressed, saw the usual gradient of more cases in areas with lower SES and higher population densities&lt;br /&gt;
+* No region has definitively “turned the corner”, but the majority of areas seems to be leveling off, giving some hope that the announced progressive easing of current restrictions will not lead to a complete disaster&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Virtual Learning &amp; Corporate Sponsorship</title>
       <link>/post/virtual-learning-corporate-sponsorship/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>

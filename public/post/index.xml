@@ -5,12 +5,25 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Glad to be at the back of the queue</title>
+      <link>/post/glad-to-be-at-the-back-of-the-queue/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/glad-to-be-at-the-back-of-the-queue/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/pills_header.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug?CMP=share_btn_tw&#34;&gt;June 30 headlines&lt;/a&gt; reported that the US had bought all the reserves of remdesivir, leaving none
+for “the next three months of one of the two drugs proven to work against covid-19, leaving none for the UK, Europe, or most of the rest of the world.”&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&#34;https://blogs.bmj.com/bmj/2020/07/03/as-the-us-purchases-world-stocks-of-remdesivir-why-the-rest-of-the-world-should-be-glad-to-be-at-the-back-of-the-queue/&#34;&gt;BMJ opinion piece&lt;/a&gt;, I outline why, contrary to many current sentiments, this action, although reflective of the apotheosis of a self centered nation with no appreciation for international collaboration, is not necessarily a bad for the rest of the world. Basically, I summarize the many scientific limitations of current studies and their likely over-exaggeration of any meaningful benefits. Also not to be ignored are remdesivir’s lack of clinical success in treating other viral diseases, its exorbitant price, and cognitive biases about its purported benefits stemming from the overhyping of initial results.&lt;/p&gt;
+&lt;p&gt;I argue that it is better to have the plutocratic American healthcare system dominate this market with an expenditure of $1.5 billion for such uncertain benefits. The money other countries save can surely be better spent on further research for this and other drugs as well as for public health measures, including testing, contact tracing, and maintaining universal healthcare, all notable lacunae in the American system.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Montreal Covid visualizations - Part 2</title>

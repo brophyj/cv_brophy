@@ -8,7 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 41  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Additional publications - see [CV](files/cv_short_1.pdf)"
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

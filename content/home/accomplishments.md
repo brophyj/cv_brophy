@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Michigan - 55th Summer Session in Epidemiology "
+  organization_url = "https://sph.umich.edu/umsse/courses/index.html"
+  title = "Machine Learning in the Era of Big Data"
+  url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
+  certificate_url = "files/UM708.pdf"
+  date_start = "2020-07-27"
+  date_end = ""
+  description = "Advances in machine learning and its application to causal inference and prediction via a so-called Targeted Learning approach using R programming language"
+  
+[[item]]
+  organization = "University of Michigan - 55th Summer Session in Epidemiology"
+  organization_url = "https://sph.umich.edu/umsse/courses/index.html"
+  title = "Methods in Genetic and Epigenetic Epidemiology"
+  url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
+  certificate_url = "files/UM719.pdf"
+  date_start = "2020-07-13"
+  date_end = ""
+  description = "Course integrating concepts in human genetics, population genetics, epidemiology, and biostatistics"
+  
+[[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Foundations of Functional Programming with Purrr"

@@ -64,4 +64,4 @@ slides: example
 ---
 
 
-Supplementary notes can be added here, including [code and math](https://doi.org/10.1016/j.cjca.2019.08.022).
+Supplementary notes can be added here, including [code and math](https://doi.org/10.1016/j.cjca.2019.08.022)

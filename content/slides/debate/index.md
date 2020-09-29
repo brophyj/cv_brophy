@@ -8,16 +8,22 @@ slides:
 summary: Slides for CTO Debate 1-11-2019
 ---
 
-## Presentation
-![](slides/Brophy_CTO1.pdf)
-Download slides ![here]("files/Brophy_CTO.pdf")
+## Not available for download
+---
+![](debate/slides/Brophy_CTO1.jpeg)
+
+{{<slide background-image="debate/slides/Brophy_CTO1.jpeg">}}
+
 ---
 
-## Slide 2
-![](slides/Brophy_CTO2.pdf)
 ---
 
-![](slides/Brophy_CTO3.pdf)
+---
+
+![](slides/Brophy_CTO1.jpeg)
+---
+
+![](slides/Brophy_CTO2.jpeg)
 ---
 
 ![](slides/Brophy_CTO4.pdf)

@@ -69,10 +69,4 @@ subtitle = ""
  css_class = ""
 +++
 
-# Intermediate Epidemiology Lecture 21 - meta-analysis   
-
-This is one of the online lectures (April 2020) given for the Intermediate Epidemiology course.
-The voice recording is sub-optimal as I had laryngitis.
-The lecture is on meta-analysis and begins about 1 minute into the 
-[video](https://mcgill.zoom.us/rec/play/7MB8cbqrrGo3HIaW5ASDB_99W9XpL_6sg3UZqPdbn0y2ACEHZFv3ZLREMOsg5xhWZ49Qw7t90TQ4JbIi).
 

@@ -48,7 +48,7 @@ links:
   url: https://twitter.com/brophyj
 url_code: ""
 url_pdf: "files/Brophy_CTO1.pdf"
-url_slides: "content/slides/debate/slides/slides_from_pdf"
+url_slides: "slides/debate/index.md"
 url_video: ""
 
 # Markdown Slides (optional).

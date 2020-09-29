@@ -5,10 +5,10 @@ event_url: https://www.mcgill.ca/deptmedicine/
 
 location: Jewish General Hospital & McGill University Hospital Center
 address:
-  street: MUHC
+  street: 
   city: Montreal
   region: QC
-  postcode:  H4A 3J1
+  postcode:  
   country: Canada
 
 summary: Talk from joint cardiovascular rounds.
@@ -23,7 +23,7 @@ In summary, there are several problems with this study -  \n
 
 3) Home institution of 8 authors (Cardiovascular Research Foundation) received $1 million [donation](https://khn.org/patient-advocacy/#organization-521752653) from stent sponsor during study     \n
 
-4) A Bayesian analysis offers several advantages - i) provides desired answers while avoiding inferential problems with p values, ii) is undamentally sound, following the rules of probability iii) is intellectually coherent & intuitive -> clear and direct inferences iv) makes use of all available information -> allows flexible, allows complex models v) places emphasis on parameter estimation & uncertainty measures vi) readily computed with modern computers    \n  
+4) A Bayesian analysis offers several advantages - i) provides desired answers while avoiding inferential problems with p values, ii) is fundamentally sound, following the rules of probability iii) is intellectually coherent & intuitive -> clear and direct inferences iv) makes use of all available information -> allows flexible, allows complex models v) places emphasis on parameter estimation & uncertainty measures vi) readily computed with modern computers    \n  
 
 5) The Bayesian analysis assists in  data interpretation and specifically suggests, whether based on EXCEL results alone (vague prior) or on the totality of available evidence (informative prior), that PCI is associated with inferior long-term results for all events, including mortality, compared with CABG for patients with left main coronary artery disease. The full peer reviewed published article can be found [here](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2766594)     \n
 

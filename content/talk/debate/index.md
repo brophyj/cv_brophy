@@ -5,10 +5,10 @@ event_url: https://www.mcgill.ca/deptmedicine/
 
 location: McGill University Hospital Center
 address:
-  street: MUHC
+  street: 
   city: Montreal
   region: QC
-  postcode:  H4A 3J1
+  postcode:  
   country: Canada
 
 summary: Talk from a symposium on high value medical care.
@@ -70,4 +70,3 @@ projects:
 math: true
 ---
 
-Just a test

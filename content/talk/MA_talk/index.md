@@ -30,7 +30,7 @@ date_end: "2020-04-01T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-09-30T00:00:00Z"
+publishDate: "2020-03-30T00:00:00Z"
 
 authors: []
 tags: []

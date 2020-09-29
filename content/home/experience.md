@@ -39,12 +39,14 @@ date_format = "Jan 2006"
   date_start = "2001-07-01"
   date_end = ""
   description = """ Non-invasive cardiologist      
-  Responsibilities include:
+  Clinical responsibilities include:
   
   * Coronary Care Unit (CCU)
   * Consultations
-  * Department of Medicine Research Committee (chair)   
-  * <a href=\"https://muhc.ca/tau/page/what-is-tau">Technology Assessment Unit</a> (chair)
+  
+  Non-clinical responsibilities include:
+  * <a href=\"https://www.mcgill.ca/deptmedicine/">Department of Medicine</a> Research Committee (chair 2016 - )   
+  * <a href=\"https://muhc.ca/tau/page/what-is-tau">Technology Assessment Unit</a> (chair 2018 -)
   """
 +++
 

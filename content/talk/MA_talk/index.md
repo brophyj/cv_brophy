@@ -49,7 +49,7 @@ links:
   url: https://twitter.com/brophyj
 url_code: ""
 url_pdf: "files/MA.pdf"
-url_slides: "files/joint_rounds_sept30.pptx"
+url_slides: "files/MA.pdf"
 url_video: "https://mcgill.zoom.us/rec/play/7MB8cbqrrGo3HIaW5ASDB_99W9XpL_6sg3UZqPdbn0y2ACEHZFv3ZLREMOsg5xhWZ49Qw7t90TQ4JbIi"
 
 # Markdown Slides (optional).

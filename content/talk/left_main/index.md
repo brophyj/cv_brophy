@@ -60,7 +60,7 @@ links:
   url: https://twitter.com/brophyj
 url_code: ""
 url_pdf: "files/joint_rounds_sept30.pdf"
-url_slides: "files/joint_rounds_sept30.pdf"
+url_slides: "slides/debate/index.md"
 url_video: ""
 
 # Markdown Slides (optional).

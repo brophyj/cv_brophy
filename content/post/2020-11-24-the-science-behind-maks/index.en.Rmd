@@ -21,9 +21,9 @@ projects: []
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-While there is no doubt regarding the physical, mental, and economic carnage due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), there is considerable debate regarding the evidence of masks to reduce its spread. At times. the debate seems governed more by partisan political views than by scientific evidence. I have commented on this issue in an earlier [post](https://www.brophyj.com/post/covid-masks-and-poor-science/).    
+While there is no doubt regarding the physical, mental, and economic carnage due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), there is considerable debate regarding the evidence of masks to reduce its spread. At times, the debate seems governed more by partisan political views than by scientific evidence. I have commented on this issue of masks in an earlier [post](https://www.brophyj.com/post/covid-masks-and-poor-science/).    
 
-Paradoxically, the publication Nov 18 2020 of the first randomized trial evaluating masks (DANMASK-19) during the current covid-19 pandemic and a meta- analysis of older trials seems to have heightened rather than reduced the uncertainty regarding their effectiveness.      
+Paradoxically, the publication Nov 18 2020 of the first randomized trial evaluating masks, [DANMASK-19](https://www.acpjournals.org/doi/10.7326/M20-6817), during the current covid-19 pandemic and a meta- analysis of older trials seems to have heightened rather than reduced the uncertainty regarding their effectiveness.      
 
 I explored this paradox in a [BMJ opinion article](https://blogs.bmj.com/bmj/2020/11/24/covid-19-controversial-trial-may-actually-show-that-masks-protect-the-wearer/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork) which I briefly summarize in this post.   
 
@@ -39,7 +39,8 @@ I explored this paradox in a [BMJ opinion article](https://blogs.bmj.com/bmj/202
 
 6. Benefits could be greater in higher incidence setting, with better mask compliance, and if protection to others is considered   
 
-7. Evidence is definitely not perfect but likely “good enough” given low cost and few side effects. 
+7. Evidence is definitely not perfect but likely “good enough” given low cost and few side effects.    
+
 
 
 

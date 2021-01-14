@@ -142,7 +142,6 @@ date_format = "Jan 2006"
 
 +++
 
-
 **Previous accomplishements (2019)**
 * [Bayesian Regression Modeling with rstanarm Course](https://learn.datacamp.com/courses/bayesian-modeling-with-rjags) - **DataCamp** [certificate](files/rstan.pdf)    
 * [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/) - **EdX** [certificate](files/HarvardX_Certificate.pdf)    

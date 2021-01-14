@@ -143,16 +143,16 @@ date_format = "Jan 2006"
 +++
 
 **Previous accomplishements (2019)**
-* [Bayesian Regression Modeling with rstanarm Course](https://learn.datacamp.com/courses/bayesian-modeling-with-rjags) - **DataCamp** [certificate](files/rstan.pdf)    
+* Bayesian Regression Modeling with rstanarm Course - **DataCamp** [certificate](files/rstan.pdf)    
 * [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/) - **EdX** [certificate](files/HarvardX_Certificate.pdf)    
 
 **Previous accomplishements (2020)**   
-* [Building Web Applications with Shiny in R](https://learn.datacamp.com/courses/building-web-applications-with-shiny-in-r) - **DataCamp** Feb 2020 [certificate](files/HarvardCertificate_2ventilation.pdf)    
-* [Mechanical Ventilation for COVID-19](https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/) - **EdX** April 2020  [certificate](files/shiny.pdf)      
-* [Visualizing Geospatial Data in R](https://datacamp.com/courses/visualizing-geospatial-data-in-r) - **DataCamp** April 2020 [certificate](files/Geospatial.pdf)     
-* [Intermediate Python Programming](https://datacamp.com/courses/intermediate-python-for-data-science) - **DataCamp** May 2020 [certificate](files/IntermediatePython.pdf)      
-* [Machine Learning with Caret in R](https://datacamp.com/courses/machine-learning-with-caret-in-r) - **DataCamp** May 2020 [certificate](files/Certificate_caret.pdf)        
-* [Foundations of Functional Programming with Purrr](https://datacamp.com/courses/foundations-of-functional-programming-with-purrr) - **DataCamp** May 2020 [certificate](files/purrr_certificate.pdf)           
+* Building Web Applications with Shiny in R - **DataCamp** Feb 2020 [certificate](files/shiny.pdf)    
+* [Mechanical Ventilation for COVID-19](https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/) - **EdX** April 2020  [certificate](files/HarvardCertificate_2ventilation.pdf)      
+* Visualizing Geospatial Data in R - **DataCamp** April 2020 [certificate](files/Geospatial.pdf)     
+* Intermediate Python Programming - **DataCamp** May 2020 [certificate](files/IntermediatePython.pdf)      
+* Machine Learning with Caret in R - **DataCamp** May 2020 [certificate](files/Certificate_caret.pdf)        
+* Foundations of Functional Programming with Purrr - **DataCamp** May 2020 [certificate](files/purrr_certificate.pdf)           
   
   
 

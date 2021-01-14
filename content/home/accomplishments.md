@@ -37,47 +37,67 @@ date_format = "Jan 2006"
   date_start = "2020-07-13"
   date_end = ""
   description = "Course integrating concepts in human genetics, population genetics, epidemiology, and biostatistics"
-  
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Foundations of Functional Programming with Purrr"
-  url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
-  certificate_url = "files/purrr_certificate.pdf"
-  date_start = "2020-06-26"
+  organization = "Statistical Horizons"
+  organization_url = "https://statisticalhorizons.com"
+  title = "Machine Learning"
+  url = "https://statisticalhorizons.com/seminars/public-seminars/machine-learning-winter21"
+  certificate_url = ""
+  date_start = "2021-01-07"
   date_end = ""
-  description = "Extract, summarize, manipulate and export lists and data "
-  
+  description = "Within R framework, topics included cross-validation and and advanced variable selection methods for regression analysis"
+    
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Machine Learning with Caret in R"
-  url = "https://datacamp.com/courses/machine-learning-with-caret-in-r"
-  certificate_url = "files/Certificate_caret.pdf"
-  date_start = "2020-05-02"
+  organization = "Statistical Horizons"
+  organization_url = "https://statisticalhorizons.com"
+  title = "Matching and Weighting for Causal Inference with R"
+  url = "https://statisticalhorizons.com/seminars/public-seminars/matching-and-weighting-for-causal-inference-with-r"
+  certificate_url = ""
+  date_start = "2021-01-14"
   date_end = ""
-  description = "Build, tune, preprocess and evaluate machine learning predictive models"
+  description = "Quasi-experimental techniques of matching and weighting methods using R to estimate causal effects from observational data "
+
+# [[item]]
+#   organization = "DataCamp"
+#   organization_url = "https://www.datacamp.com"
+#   title = "Foundations of Functional Programming with Purrr"
+#   url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
+#   certificate_url = "files/purrr_certificate.pdf"
+#   date_start = "2020-06-26"
+#   date_end = ""
+#   description = "Extract, summarize, manipulate and export lists and data "
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Intermediate Python Programming"
-  url = "https://datacamp.com/courses/intermediate-python-for-data-science"
-  certificate_url = "files/IntermediatePython.pdf"
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "Intermediate programming in Python"
+# [[item]]
+#   organization = "DataCamp"
+#   organization_url = "https://www.datacamp.com"
+#   title = "Machine Learning with Caret in R"
+#   url = "https://datacamp.com/courses/machine-learning-with-caret-in-r"
+#   certificate_url = "files/Certificate_caret.pdf"
+#   date_start = "2020-05-02"
+#   date_end = ""
+#   description = "Build, tune, preprocess and evaluate machine learning predictive models"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Visualizing Geospatial Data in R"
-  url = "https://datacamp.com/courses/visualizing-geospatial-data-in-r"
-  certificate_url = "files/Geospatial.pdf"
-  date_start = "2020-04-24"
-  date_end = ""
-  description = "Learn to read, explore, manipulate and map spatial objects"
+# [[item]]
+#   organization = "DataCamp"
+#   organization_url = "https://www.datacamp.com"
+#   title = "Intermediate Python Programming"
+#   url = "https://datacamp.com/courses/intermediate-python-for-data-science"
+#   certificate_url = "files/IntermediatePython.pdf"
+#   date_start = "2020-05-01"
+#   date_end = ""
+#   description = "Intermediate programming in Python"
   
+# [[item]]
+#   organization = "DataCamp"
+#   organization_url = "https://www.datacamp.com"
+#   title = "Visualizing Geospatial Data in R"
+#   url = "https://datacamp.com/courses/visualizing-geospatial-data-in-r"
+#   certificate_url = "files/Geospatial.pdf"
+#   date_start = "2020-04-24"
+#   date_end = ""
+#   description = "Learn to read, explore, manipulate and map spatial objects"
+#   
   
 ## [[item]]
 ##  organization = "edX"
@@ -90,15 +110,15 @@ date_format = "Jan 2006"
 ##  description = "A course in causal diagrams to understand different assumptions, biases and analyses"
 
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Building Web Applications with Shiny in R"
-  url = "https://learn.datacamp.com/courses/building-web-applications-with-shiny-in-r"
-  certificate_url = "files/shiny.pdf"
-  date_start = "2020-02-01"
-  date_end = ""
-  description = "Course to build highly interactive web apps directly in R"
+# [[item]]
+#   organization = "DataCamp"
+#   organization_url = "https://www.datacamp.com"
+#   title = "Building Web Applications with Shiny in R"
+#   url = "https://learn.datacamp.com/courses/building-web-applications-with-shiny-in-r"
+#   certificate_url = "files/shiny.pdf"
+#   date_start = "2020-02-01"
+#   date_end = ""
+#   description = "Course to build highly interactive web apps directly in R"
   
 ##[[item]]
 ##  organization = "DataCamp"
@@ -110,23 +130,34 @@ date_format = "Jan 2006"
 ##  date_end = ""
 ##  description = "Estimation of linear regression models using Bayesian methods and the rstanarm package"
 
-[[item]]
- organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Mechanical Ventilation for COVID-19"
-  url = "https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/"
-  certificate_url = "files/HarvardCertificate_2ventilation.pdf"
-  date_start = "2020-04-14"
-  date_end = ""
-  description = "Short course on mechanical ventilation, including ventilator setting, adjustments, troubleshooting and extubation procedures"
+# [[item]]
+#  organization = "edX"
+#   organization_url = "https://www.edx.org"
+#   title = "Mechanical Ventilation for COVID-19"
+#   url = "https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/"
+#   certificate_url = "files/HarvardCertificate_2ventilation.pdf"
+#   date_start = "2020-04-14"
+#   date_end = ""
+#   description = "Short course on mechanical ventilation, including ventilator setting, adjustments, troubleshooting and extubation procedures"
 
 +++
 
 
-Previous accomplishements (2019)
-* [Bayesian Regression Modeling with rstanarm Course](https://learn.datacamp.com/courses/bayesian-modeling-with-rjags) - DataCamp [certificate](files/rstan.pdf)    
-* [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/) - edX [certificate](files/HarvardX_Certificate.pdf)    
+**Previous accomplishements (2019)**
+* [Bayesian Regression Modeling with rstanarm Course](https://learn.datacamp.com/courses/bayesian-modeling-with-rjags) - **DataCamp** [certificate](files/rstan.pdf)    
+* [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+1T2019/course/) - **EdX** [certificate](files/HarvardX_Certificate.pdf)    
 
+**Previous accomplishements (2020)**   
+* [Building Web Applications with Shiny in R](https://learn.datacamp.com/courses/building-web-applications-with-shiny-in-r) - **DataCamp** Feb 2020 [certificate](files/HarvardCertificate_2ventilation.pdf)    
+* [Mechanical Ventilation for COVID-19](https://courses.edx.org/courses/course-v1:HarvardX+COV19x+1T2020/course/) - **EdX** April 2020  [certificate](files/shiny.pdf)      
+* [Visualizing Geospatial Data in R](https://datacamp.com/courses/visualizing-geospatial-data-in-r) - **DataCamp** April 2020 [certificate](files/Geospatial.pdf)     
+* [Intermediate Python Programming](https://datacamp.com/courses/intermediate-python-for-data-science) - **DataCamp** May 2020 [certificate](files/IntermediatePython.pdf)      
+* [Machine Learning with Caret in R](https://datacamp.com/courses/machine-learning-with-caret-in-r) - **DataCamp** May 2020 [certificate](files/Certificate_caret.pdf)        
+* [Foundations of Functional Programming with Purrr](https://datacamp.com/courses/foundations-of-functional-programming-with-purrr) - **DataCamp** May 2020 [certificate](files/purrr_certificate.pdf)           
+  
+  
+
+  
 
 
 

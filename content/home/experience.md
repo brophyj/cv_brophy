@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   * Consultations
   
   Non-clinical responsibilities include:
-  * <a href=\"https://www.mcgill.ca/deptmedicine/">Department of Medicine</a> Research Committee (chair 2016 - )   
+  * <a href=\"https://www.mcgill.ca/deptmedicine/">Department of Medicine</a> Research Committee (chair 2015 - 2020)   
   * <a href=\"https://muhc.ca/tau/page/what-is-tau">Technology Assessment Unit</a> (chair 2018 -)
   """
 +++

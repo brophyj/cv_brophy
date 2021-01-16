@@ -18,25 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "University of Michigan - 55th Summer Session in Epidemiology "
-  organization_url = "https://sph.umich.edu/umsse/courses/index.html"
-  title = "Machine Learning in the Era of Big Data"
-  url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
-  certificate_url = "files/UM708.pdf"
-  date_start = "2020-07-27"
-  date_end = ""
-  description = "Advances in machine learning and its application to causal inference and prediction via a so-called Targeted Learning approach using R programming language"
-  
-[[item]]
-  organization = "University of Michigan - 55th Summer Session in Epidemiology"
-  organization_url = "https://sph.umich.edu/umsse/courses/index.html"
-  title = "Methods in Genetic and Epigenetic Epidemiology"
-  url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
-  certificate_url = "files/UM719.pdf"
-  date_start = "2020-07-13"
-  date_end = ""
-  description = "Course integrating concepts in human genetics, population genetics, epidemiology, and biostatistics"
+# [[item]]
+#   organization = "University of Michigan - 55th Summer Session in Epidemiology "
+#   organization_url = "https://sph.umich.edu/umsse/courses/index.html"
+#   title = "Machine Learning in the Era of Big Data"
+#   url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
+#   certificate_url = "files/UM708.pdf"
+#   date_start = "2020-07-27"
+#   date_end = ""
+#   description = "Advances in machine learning and its application to causal inference and prediction via a so-called Targeted Learning approach using R programming language"
+#   
+# [[item]]
+#   organization = "University of Michigan - 55th Summer Session in Epidemiology"
+#   organization_url = "https://sph.umich.edu/umsse/courses/index.html"
+#   title = "Methods in Genetic and Epigenetic Epidemiology"
+#   url = "https://datacamp.com/courses/foundations-of-functional-programming-with-purrr"
+#   certificate_url = "files/UM719.pdf"
+#   date_start = "2020-07-13"
+#   date_end = ""
+#   description = "Course integrating concepts in human genetics, population genetics, epidemiology, and biostatistics"
 
 [[item]]
   organization = "Statistical Horizons"
@@ -152,8 +152,11 @@ date_format = "Jan 2006"
 * Visualizing Geospatial Data in R - **DataCamp** April 2020 [certificate](files/Geospatial.pdf)     
 * Intermediate Python Programming - **DataCamp** May 2020 [certificate](files/IntermediatePython.pdf)      
 * Machine Learning with Caret in R - **DataCamp** May 2020 [certificate](files/Certificate_caret.pdf)        
-* Foundations of Functional Programming with Purrr - **DataCamp** May 2020 [certificate](files/purrr_certificate.pdf)           
-  
+* Foundations of Functional Programming with Purrr - **DataCamp** May 2020 [certificate](files/purrr_certificate.pdf)   
+* [EPID 708 Machine Learning for Epidemiologic Analysis in the Era of Big Data](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM708.pdf)    
+* [EPID 719 Methods in Genetic and Epigenetic Epidemiology](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM719.pdf)        
+
+
   
 
   

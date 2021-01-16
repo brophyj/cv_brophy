@@ -153,8 +153,8 @@ date_format = "Jan 2006"
 * Intermediate Python Programming - **DataCamp** May 2020 [certificate](files/IntermediatePython.pdf)      
 * Machine Learning with Caret in R - **DataCamp** May 2020 [certificate](files/Certificate_caret.pdf)        
 * Foundations of Functional Programming with Purrr - **DataCamp** May 2020 [certificate](files/purrr_certificate.pdf)   
-* [EPID 708 Machine Learning for Epidemiologic Analysis in the Era of Big Data](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM708.pdf)    
-* [EPID 719 Methods in Genetic and Epigenetic Epidemiology](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM719.pdf)        
+* [Machine Learning for Epidemiologic Analysis in the Era of Big Data](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM708.pdf)    
+* [Methods in Genetic and Epigenetic Epidemiology](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM719.pdf)        
 
 
 **Accomplishements (2021)**   

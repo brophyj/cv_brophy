@@ -157,6 +157,11 @@ date_format = "Jan 2006"
 * [EPID 719 Methods in Genetic and Epigenetic Epidemiology](https://sph.umich.edu/umsse/courses/index.html) - **University of Michigan - 55th Summer Session in Epidemiology** July 2020 [certificate](files/UM719.pdf)        
 
 
+**Accomplishements (2021)**   
+
+
+
+
   
 
   

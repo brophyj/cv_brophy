@@ -25,7 +25,7 @@ subtitle = ""
   certificate_url = ""
   date_start = "2021-03-01"
   date_end = ""
-  description = "First 6 chapters of my first online E book, **(Mostly) Clinical Epidemiology with R**, created with Bookdown "
+  description = "First 10 chapters of my online E book, **(Mostly) Clinical Epidemiology with R**, created with Bookdown (other chapters to follow)"
 +++
 
 
